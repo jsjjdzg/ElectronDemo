@@ -1,9 +1,9 @@
 {
-  "name": "dzg-electron",
-  "productName": "dzg-electron",
-  "version": "0.0.0",
+  "name": "Infinity",
+  "productName": "Infinity",
+  "version": "1.0.0",
   "author": "jsjjdzg <jsjjdzg@163.com>",
-  "description": "An electron-vue project",
+  "description": "Infinity",
   "license": null,
   "main": "./dist/electron/main.js",
   "scripts": {
